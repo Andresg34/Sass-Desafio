@@ -1,0 +1,30 @@
+.seccion1 {
+        div {
+            nav {
+                ul {
+                    display: flex;
+                    justify-content: end;
+                    list-style: none;
+                    li {
+                        a {
+                            color: orange;
+                            font-size: 25px;
+                            text-decoration: none;
+                        }
+                    }
+                }
+            }
+        }
+}
+
+.seccion2 {
+    background-color: white;
+        div {
+            p {
+                font-size: 20px;
+                font-family: Arial, Helvetica, sans-serif;
+                color: orange;
+
+            }
+        }
+}
